@@ -109,7 +109,7 @@
                   </div>
 
                   <div class="comment-body">
-                    <h3>Nidhal Abidi</h3>
+                    <h3>Shreya Gupta</h3>
                     <div class="meta">January 17, 2020 at 5:40am</div>
                     <p>Good content with a lot of details!</p>
                   </div>
